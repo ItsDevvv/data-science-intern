@@ -13,7 +13,7 @@ This project demonstrates the implementation of various data science tasks, incl
 
 ### **Task 1: Exploratory Data Analysis (EDA)**
 - **Objective**: Analyze a real-world dataset to uncover patterns and insights.
-- **File**: `task1_eda.ipynb`
+- **File**: `datascience.ipynb`
 - **Steps**:
   - Handle missing values and outliers.
   - Visualize data distributions and correlations.
@@ -21,7 +21,7 @@ This project demonstrates the implementation of various data science tasks, incl
 
 ### **Task 2: Sentiment Analysis**
 - **Objective**: Perform sentiment analysis on text data using machine learning.
-- **File**: `task2_sentiment_analysis.ipynb`
+- **File**: `sentiment_analysis.ipynb`
 - **Steps**:
   - Preprocess text (e.g., tokenization, stopword removal).
   - Train and evaluate a sentiment classifier.
@@ -29,7 +29,7 @@ This project demonstrates the implementation of various data science tasks, incl
 
 ### **Task 3: Fraud Detection**
 - **Objective**: Build a fraud detection system using a machine learning model.
-- **File**: `task3_fraud_detection.ipynb`
+- **File**: `fraud_detect.ipynb`
 - **Steps**:
   - Handle imbalanced data using resampling techniques.
   - Train and evaluate models such as Random Forest or Gradient Boosting.
@@ -37,7 +37,7 @@ This project demonstrates the implementation of various data science tasks, incl
 
 ### **Task 4: House Price Prediction**
 - **Objective**: Predict house prices using regression models.
-- **File**: `task4_house_prices.ipynb`
+- **File**: `housing.ipynb`
 - **Steps**:
   - Preprocess numerical and categorical features.
   - Train models like Linear Regression and Random Forest.
